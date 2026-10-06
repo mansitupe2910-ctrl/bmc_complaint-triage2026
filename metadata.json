@@ -1,0 +1,6 @@
+{
+  "name": "AI BMC Complaint Triage & Ward Command",
+  "description": "Accessible multilingual Mumbai civic complaint triage with senior citizen mode, AI defect inference, GPS ward deduplication (+1 Me Too), and Ward Officer Command Center with Proof-of-Work verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
